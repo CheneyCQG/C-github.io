@@ -1,3 +1,3 @@
-# hello-world
-Just another repository
-glikj
+#手记
+1.C程序由若干个头文件和函数组成。
+2.必须要有主函数，即main函数。
